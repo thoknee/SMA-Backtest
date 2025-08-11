@@ -4,7 +4,7 @@ This is a simple backtesting library where you can test and optimize different m
 
 Upon cloning the repository, do what you need to do and create a virtual environment then run: 
 
-'''pip install -r requirements.txt'''
+~~~pip install -r requirements.txt~~~
 
 in your terminal.
 
